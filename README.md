@@ -6,9 +6,10 @@
 
 ### Quick Launch Link
 ---
-#### FortiGate High Availability(HA) Pair - 2 NICs
-[![Create Fortigate High Availability(HA) Pair - 2 NICs](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmorinpa%2FFortiGate-AP-HA%2FDynamicallyGeneratedConfig%2FmainTemplate.json)
+#### FortiGate High Availability(HA) Pair - Active-Passive
+[![Create Fortigate High Availability(HA) Pair - Active-Passive](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmorinpa%2FFortiGate-AP-HA%2FDynamicallyGeneratedConfig%2FmainTemplate.json)
 
+[![Vizualize Fortigate High Availability(HA) Pair - Active-Passive](http://armviz.io/visualizebutton.png)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fmorinpa%2FFortiGate-AP-HA%2FDynamicallyGeneratedConfig%2FmainTemplate.json)
 ---
 A typical use case will be for Site-to-Site VPN termination as in the following diagram:
 ---
